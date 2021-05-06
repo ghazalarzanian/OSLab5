@@ -1,5 +1,5 @@
 # OSLab5
-غزل ارزانیان-- 97440159
+غزل ارزانیان 97440159
 سوال 1:برای کانفیگ کردن از دستور زیر استفاده میکنیم
 git config --global credential.helper store 
 سوال 2:
@@ -33,7 +33,3 @@ git push origin master
  uptime-s 
  uptime 
  هم میتوانیم برای اندازه زمان استفاده کنیم 
- 
- 
- 
- 

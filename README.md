@@ -33,3 +33,5 @@ git push origin master
  uptime-s 
  uptime 
  هم میتوانیم برای اندازه زمان استفاده کنیم 
+ 
+ 
